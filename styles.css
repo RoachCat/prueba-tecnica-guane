@@ -54,6 +54,7 @@
     padding: 10px 0 10px 0;
 }
 
+
 @media (max-width: 1186px) {
     .commodity__div-buttons{
         display: flex;
